@@ -1,6 +1,6 @@
 # War Hero 2DJavaGame
 
-War Hero is a 2D single-player platform game where the player takes on the role of a soldier fighting for his country against enemy forces. The game is divided into three levels, each with its own challenges and unique enemies.
+War Hero is a 2D single-player platform game where the player takes on the role of a soldier fighting for his country against enemy forces. The game is divided into three levels, each with its own challenges and unique enemies. This project was made during the Object Oriented Design.
 
 ## Installation and Setup
 
